@@ -1,0 +1,9 @@
+<table name="two hours of torment">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="twohoursoftorment" directory="sounds">
+        <event name="setup" source="stealth.ogg"/>
+        <event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+        <event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+        <event name="control" source="control.ogg"/>
+    </HeistMusic>
+</table>

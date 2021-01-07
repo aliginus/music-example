@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_twohoursoftorment" : "Two Hours Of Torment",
+    "menu_jukebox_screen_twohoursoftorment" : "Two Hours Of Torment"
+}
